@@ -24,7 +24,7 @@ Warehouse Software consists of a RESTful service and a database. The RESTful War
 
 - `index.js` - The entry point to the application. Loads coniguration file,all the collections and makes connection to the DB.
 - `config.js` - This file contains configuration data.
-- `route.js/` - This file contains the route definitions for our API.
+- `route.js` - This file contains the route definitions for our API.
 
 
 
