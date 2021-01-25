@@ -1,0 +1,17 @@
+{
+  "name": "warehouse-software",
+  "version": "0.0.1",
+  "description": "Software to manage inventory and products in watehouse",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "pratibha7719@outlook.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "node-file-config": "^0.1.0",
+    "node-promise-wrapper": "0.0.2"
+  }
+}
