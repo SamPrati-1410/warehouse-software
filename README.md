@@ -18,7 +18,7 @@ Warehouse Software built using Node.js with MongoDB as database.
 ### Solution Design and implementation
 Warehouse Software consists of a RESTful service and a database. The RESTful Warehouse Service is developed using Node.js with Express.js.and MongoDB used as a database for the service to interact.
 
-![alt text](Architecture-Warehouse-Software.jpg "Title")
+![alt text](images/Architecture-Warehouse-Software.jpg "Title")
 
 ### Application Structure
 
