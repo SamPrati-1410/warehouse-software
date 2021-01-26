@@ -102,7 +102,8 @@ exports = module.exports = function(app, config) {
             }
           });
         });
-      }
+      },
+      start: function() {}
     };
   });
 };
